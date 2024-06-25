@@ -17,4 +17,6 @@ altrimenti se ha piu di 65 anni
     sconto del 40%
 altrimenti
     nessuno sconto
+dichiarare variabile per il prezzo finale 
+impostarla con massimo 2 decimali
 
