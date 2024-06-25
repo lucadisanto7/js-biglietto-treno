@@ -19,4 +19,6 @@ altrimenti
     nessuno sconto
 dichiarare variabile per il prezzo finale 
 impostarla con massimo 2 decimali
+? se lo sconto e' diverso da 0
+    calcolare il prezzo finale
 
