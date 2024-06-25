@@ -12,9 +12,9 @@ ricavare il valore delle variabili tramite due prompt separati
 dichiarare una variabile per il prezzo del biglietto
 creare un if per verificare l'eta' dell'utente
 ? Se ha meno di 18 anni 
-    sconto del 20%
+    sconto del 20%         (dichiarare variabile sconto 20%)
 altrimenti se ha piu di 65 anni
-    sconto del 40%
+    sconto del 40%         (dichiarare variabile sconto 40%)
 altrimenti
     nessuno sconto
 dichiarare variabile per il prezzo finale 
