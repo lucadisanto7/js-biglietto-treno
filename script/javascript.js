@@ -19,4 +19,4 @@ if (sconto != 0){
 else{
     prezzo_finale = prezzo_biglietto
 }
-document.getElementById('prezzo_finale').innerHTML += prezzo_finale
+document.getElementById('prezzo_finale').innerHTML += prezzo_finale.toFixed(2)
