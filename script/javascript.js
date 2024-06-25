@@ -3,8 +3,8 @@ let chilometri = prompt('inserisci i chilometri da percorrere');
 
 let prezzo_biglietto = 0.21 * chilometri;
 let sconto = 0
-let prezzo_scontato = 0
-let prezzo_finale = 0
+let prezzo_scontato
+let prezzo_finale
 
 if (age < 18){
     sconto = 20;
