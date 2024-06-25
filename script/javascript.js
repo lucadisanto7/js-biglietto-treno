@@ -12,3 +12,11 @@ if (age < 18){
 else if (age > 65){
     sconto = 40;
 }
+if (sconto != 0){
+    prezzo_scontato = prezzo_biglietto * sconto / 100;
+    prezzo_finale = prezzo_biglietto - prezzo_scontato
+}
+else{
+    prezzo_finale = prezzo_biglietto
+}
+document.getElementById('prezzo_finale').innerHTML = prezzo_finale
